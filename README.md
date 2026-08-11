@@ -51,29 +51,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/JITH1/JITH1/main/profile/stats.svg"
-    height="150"
-    alt="GitHub stats"
-  />
-
-</div>
-
-###
-
-<div align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/JITH1/JITH1/output/github-snake.svg"
-    alt="GitHub contribution snake"
-  />
-
-</div>
-
-###
-
 <div data-importer="border">
 
   <img
