@@ -51,18 +51,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/JITH1/JITH1/main/profile/stats.svg"
-    height="150"
-    alt="GitHub stats"
-  />
-
-</div>
-
-###
-
 <div data-importer="border">
 
   <img
