@@ -87,7 +87,7 @@ CLCD + matrix keypad dashboard with ADC-based speed/gear tracking, external I2C 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/JITH1/JITH1/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center"><i>⚡ "Somewhere between a datasheet and a breadboard, that's where I live." ⚡</i></p>
